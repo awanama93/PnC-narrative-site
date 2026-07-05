@@ -41,3 +41,32 @@ _General Plot:
 - Completion_quest_ID: `VIEW[{Completion_quest_ID}][text(renderMarkdown)]`
 - Completion_response_ID: `VIEW[{Completion_response_ID}][text(renderMarkdown)]`
 - Skill_check_result: `VIEW[{Skill_check_result}][text(renderMarkdown)]`
+
+Dataview
+```dataviewjs
+// Grab the frontmatter object of the current file
+let frontmatter = dv.current();
+
+if (frontmatter) {
+    let output = [];
+    
+    // Loop through every key in the metadata
+    for (let key of Object.keys(frontmatter)) {
+        // Filter out Dataview's internal system keys
+        if (!["file", "id", "position"].includes(key)) {
+            let value = frontmatter[key];
+            
+            // Format arrays (like lists of links) into comma-separated text
+            if (Array.isArray(value)) {
+                value = value.join(", ");
+            }
+            
+            output.push(`- **${key}**: ${value}`);
+        }
+    }
+    
+    // Print the final list as plain markdown prose
+    dv.paragraph(output.join("\n"));
+}
+```
+

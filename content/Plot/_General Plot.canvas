@@ -12,7 +12,7 @@
 		{"id":"6c8470e9213d22e8","type":"file","file":"Character/GuestB.md","x":-800,"y":5560,"width":400,"height":400},
 		{"id":"be205496c1ade5c3","type":"file","file":"Character/GuestC.md","x":-140,"y":5560,"width":400,"height":400},
 		{"id":"d3f5ef86ba4a82f7","type":"file","file":"Narrative data/LocationChanger/LC0001.md","x":-1760,"y":2140,"width":470,"height":480,"color":"2"},
-		{"id":"350628078f7241ca","type":"file","file":"Narrative data/Quest/Quest0006.md","x":-1040,"y":2200,"width":400,"height":360,"color":"1"},
+		{"id":"350628078f7241ca","type":"file","file":"Narrative data/Quest/Quest0006.md","x":-1040,"y":2200,"width":400,"height":840,"color":"1"},
 		{
 			"id":"5c27144d64c87e39",
 			"type":"text",
@@ -22,16 +22,6 @@
 			"y":2350,
 			"width":250,
 			"height":60
-		},
-		{
-			"id":"b6ed898b95714a3d",
-			"type":"text",
-			"text":"Learn list\n\nClick to interact\nSkill check\nEXP\nDifferent type of outcome\nSkill dice type\nUpgrade skill dice face\nCondition dice\nDifferent type of non-integer face & stat\nSpecial dice face\nCrafting special dice\nFace",
-			"styleAttributes":{},
-			"x":-1100,
-			"y":2620,
-			"width":260,
-			"height":340
 		},
 		{"id":"8a156029d2480deb","type":"file","file":"Narrative data/Quest/Quest0014.md","x":3920,"y":2380,"width":400,"height":700,"color":"5"},
 		{"id":"bda550fbf6901c86","type":"file","file":"Narrative data/LocationChanger/LC0004.md","x":720,"y":3990,"width":500,"height":510,"color":"2"},
@@ -60,7 +50,17 @@
 		{"id":"460ce9bd78ae1e75","type":"file","file":"Plot/Bagian 11 Opsi B.md","x":11700,"y":360,"width":400,"height":400},
 		{"id":"bf24c664a6258794","type":"file","file":"Plot/Bagian 11.1 Truth reveal.md","x":12280,"y":380,"width":400,"height":400},
 		{"id":"a9874b41689dc5d8","type":"file","file":"Plot/Ending A The scapegoat.md","x":12840,"y":-260,"width":400,"height":400},
-		{"id":"69adfd5d83875776","type":"file","file":"Plot/Ending B Truth revealed.md","x":12920,"y":380,"width":400,"height":400}
+		{"id":"69adfd5d83875776","type":"file","file":"Plot/Ending B Truth revealed.md","x":12920,"y":380,"width":400,"height":400},
+		{
+			"id":"b6ed898b95714a3d",
+			"type":"text",
+			"text":"Learn list\n\nClick to interact\nSkill check\nEXP\nDifferent type of outcome\nSkill dice type\nUpgrade skill dice face\nCondition dice\nDifferent type of non-integer face & stat\nSpecial dice face\nCrafting special dice\nFace",
+			"styleAttributes":{},
+			"x":-1655,
+			"y":2700,
+			"width":260,
+			"height":340
+		}
 	],
 	"edges":[
 		{
