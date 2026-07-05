@@ -21,7 +21,6 @@ canvas:
   - "[[_General Plot.canvas]]"
 _General Plot:
   - "[[Quest0008]]"
-  - "[[LC0001]]"
 dg-publish: true
 ---
 

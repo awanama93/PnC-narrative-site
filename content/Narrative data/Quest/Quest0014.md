@@ -21,9 +21,9 @@ tags:
   - quest
 canvas:
   - "[[_General Plot.canvas]]"
+dg-publish: true
 _General Plot:
   - "[[Quest0006]]"
-dg-publish: true
 ---
 
 ### Properties, --

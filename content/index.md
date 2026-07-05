@@ -15,6 +15,24 @@ Pada dokumen ini terdapat beragam informasi detil.
 
 - User dokumen ini bisa mulai dari melihat diagram quest dan narrative pada page berikut:: : [[_General Plot.canvas]]
 
-Lalu, user dokumen ini juga bisa mengakses beragam database tentang quest dan narrative:, Character database, [[CharacterDatabase.base]], Dice database, [[DiceDatabase.base]], Item database, [[ItemDatabase.base]], Location changer database, [[LocationChangerDatabase.base]], Quest database, [[QuestDatabase.base]], Hint database, [[HintDatabase.base]], Narrative database, [[NarrativeDatabase.base]], Response database, [[ResponseDatabase.base]], Outcome database, [[OutcomeDatabase.base]]
+Lalu, user dokumen ini juga bisa mengakses beragam database tentang quest dan narrative:
+- Character database
+	- [[CharacterDatabase.base]] 
+- Dice database
+	- [[DiceDatabase.base]]
+- Item database
+	- [[ItemDatabase.base]]
+- Location changer database
+	- [[LocationChangerDatabase.base]]
+- Quest database
+	- [[QuestDatabase.base]]
+- Hint database
+	- [[HintDatabase.base]]
+- Narrative database
+	- [[NarrativeDatabase.base]]
+- Response database
+	- [[ResponseDatabase.base]]
+- Outcome database
+	- [[OutcomeDatabase.base]]
 
 
