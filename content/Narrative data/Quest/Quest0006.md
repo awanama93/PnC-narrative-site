@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-02T18:38:52.302+07:00
-modified: 2026-07-05T21:18:50.148+07:00
-published: 2026-07-05T21:18:50.148+07:00
+modified: 2026-07-05T22:25:26.010+07:00
+published: 2026-07-05T22:25:26.010+07:00
 tags:
   - quest
 Quest_ID: "[[Quest0006]]"
@@ -47,3 +47,32 @@ _General Plot:
 - Completion\_quest\_ID: `VIEW[{Completion_quest_ID}][text(renderMarkdown)]`
 - Completion\_response\_ID: `VIEW[{Completion_response_ID}][text(renderMarkdown)]`
 - Skill\_check\_result: `VIEW[{Skill_check_result}][text(renderMarkdown)]`
+
+Dataview
+
+```dataviewjs
+// Grab the frontmatter object of the current file
+let frontmatter = dv.current();
+
+if (frontmatter) {
+    let output = [];
+    
+    // Loop through every key in the metadata
+    for (let key of Object.keys(frontmatter)) {
+        // Filter out Dataview's internal system keys
+        if (!["file", "id", "position"].includes(key)) {
+            let value = frontmatter[key];
+            
+            // Format arrays (like lists of links) into comma-separated text
+            if (Array.isArray(value)) {
+                value = value.join(", ");
+            }
+            
+            output.push(`- **${key}**: ${value}`);
+        }
+    }
+    
+    // Print the final list as plain markdown prose
+    dv.paragraph(output.join("\n"));
+}
+```
