@@ -245,7 +245,7 @@ plugins:
       language: yaml
     order: 5
     layout:
-      position: beforeBody
+      position: pageBody
       priority: 15
       display: all
 layout:
@@ -254,7 +254,6 @@ layout:
       priority: 35
       direction: row
       gap: 0.5rem
-  #changes suggestion by gemini
   byPageType:
     "404":
       positions:
@@ -272,10 +271,6 @@ layout:
         - reader-mode
       positions:
         right: []
-    canvas:
-      positions:
-        beforeBody:
-          - source: github:quartz-community/breadcrumbs
-          - source: github:quartz-community/article-title
-          - source: github:quartz-community/note-properties
+    canvas: {}
     bases: {}
+
