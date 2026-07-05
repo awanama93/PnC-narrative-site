@@ -1,23 +1,23 @@
 ---
-Response ID: Response0009
-Narrative ID: "[[Narrative0006]]"
-Player action description: Your knowledge skill
-Opponent action description: Ready to check your knowledge
-Skill check text: Can you succeed at this knowledge check?
-Response text: Do skill check with Guest C
-Response prerequisite type: Quest ongoing
-Prerequisite quest ID: "[[Quest0009]]"
-Prerequisite item ID: none
-Skill check?: yes
-Skill type: knowledge
-Multiple skill check attempt?: yes
-Item check?: none
-Item Id: none
-Succeed outcome: "[[Outcome0013]]"
-Failed outcome: "[[Outcome0014]]"
-Neutral outcome: "[[Outcome0015]]"
+Response_ID: Response0009
+Narrative_ID: "[[Narrative0006]]"
+Player_action_description: Your knowledge skill
+Opponent_action_description: Ready to check your knowledge
+Skill_check_text: Can you succeed at this knowledge check?
+Response_text: Do skill check with Guest C
+Response_prerequisite_type: Quest ongoing
+Prerequisite_quest_ID: "[[Quest0009]]"
+Prerequisite_item_ID: none
+Skill_check?: yes
+Skill_type: knowledge
+Multiple_skill_check_attempt?: yes
+Item_check?: none
+Item_Id: none
+Succeed_outcome: "[[Outcome0013]]"
+Failed_outcome: "[[Outcome0014]]"
+Neutral_outcome: "[[Outcome0015]]"
 tags:
   - response
-Outcome ID prerequisite: none
+Outcome_ID_prerequisite: none
 dg-publish: true
 ---

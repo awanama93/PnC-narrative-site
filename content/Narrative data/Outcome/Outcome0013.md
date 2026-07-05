@@ -1,28 +1,28 @@
 ---
-Outcome ID: Outcome0013
-Response ID: "[[Response0009]]"
-Outcome name: knowledge check succeed with Guest C
-Outcome type: Succeed response
-Outcome response: You're succeed to check knowledge with Guest C
-EXP gain: "3"
-Add item ID: none
-Condition dice 1 type modification: none
-Condition dice 1 ID: none
-Condition dice 2 type modification: none
-Condition dice 2 ID: none
+Outcome_ID: Outcome0013
+Response_ID: "[[Response0009]]"
+Outcome_name: knowledge check succeed with Guest C
+Outcome_type: Succeed response
+Outcome_response: You're succeed to check knowledge with Guest C
+EXP_gain: "3"
+Add_item_ID: none
+Condition_dice_1_type_modification: none
+Condition_dice_1_ID: none
+Condition_dice_2_type_modification: none
+Condition_dice_2_ID: none
 tags:
   - outcome
-Condition target 1: none
-Condition target 2: none
-Condition target 3: none
-Condition dice 3 type modification: none
-Condition dice 3 ID: none
-Condition dice 1 influenced skill type: none
-Condition dice 2 influenced skill type: none
-Condition dice 3 influenced skill type: none
-Special dice face 1 addition: low sanity
-Special dice face 2 addition: none
-Special dice face 3 addition: none
-Subtract item ID: none
+Condition_target_1: none
+Condition_target_2: none
+Condition_target_3: none
+Condition_dice 3_type_modification: none
+Condition_dice_3_ID: none
+Condition_dice_1_influenced_skill_type: none
+Condition_dice_2_influenced_skill_type: none
+Condition_dice_3_influenced_skill_type: none
+Special_dice_face_1_addition: low sanity
+Special_dice_face_2_addition: none
+Special_dice_face_3_addition: none
+Subtract_item_ID: none
 dg-publish: true
 ---

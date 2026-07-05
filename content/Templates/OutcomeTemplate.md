@@ -1,21 +1,21 @@
 ---
 tags:
   - outcome
-Outcome ID:
-Response ID:
-Outcome name:
-Outcome type:
-Outcome response:
-EXP gain:
-Add item ID:
-Condition target 1:
-Condition dice 1 type modification:
-Condition dice 1 ID:
-Condition target 2:
-Condition dice 2 type modification:
-Condition dice 2 ID:
-Condition target 3:
-Condition dice 3 type modification:
-Condition dice 3 ID:
+Outcome_ID:
+Response_ID:
+Outcome_name:
+Outcome_type:
+Outcome_response:
+EXP_gain:
+Add_item_ID:
+Condition_target_1:
+Condition_dice_1_type_modification:
+Condition_dice_1_ID:
+Condition_target_2:
+Condition_dice_2_type_modification:
+Condition_dice_2_ID:
+Condition_target_3:
+Condition_dice 3_type_modification:
+Condition_dice_3_ID:
 dg-publish: true
 ---

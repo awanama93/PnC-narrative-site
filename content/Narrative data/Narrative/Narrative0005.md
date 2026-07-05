@@ -1,8 +1,8 @@
 ---
-Narrative ID: Narrative0005
-Narrative name: "[[GuestB]]"
+Narrative_ID: Narrative0005
+Narrative_name: "[[GuestB]]"
 Exposition: Guest B want to check something with you
-Narrative completion status:
+Narrative_completion_status:
 Responses:
   - "[[Response0008]]"
 tags:

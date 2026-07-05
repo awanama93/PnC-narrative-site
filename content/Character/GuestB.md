@@ -1,10 +1,10 @@
 ---
 tags:
   - character
-Dialogue position: Left
-Character ID: GuestB
+Dialogue_position: Left
+Character_ID: GuestB
 Mesh: ExtrasA
-Narrative data:
+Narrative_data:
   - "[[Narrative0005]]"
   - "[[Narrative0009]]"
   - "[[Narrative0010]]"
@@ -13,7 +13,8 @@ canvas:
 _General Plot: []
 dg-publish: true
 ---
-
-### Properties, --, tags:: : , character, Dialogue position:: : Left, Character ID:: : GuestB, Mesh:: : ExtrasA
-- - - Narrative data:: : : : , "[[Narrative0005]]", "[[Narrative0009]]", "[[Narrative0010]]"
-- - - canvas:: : : : , "[[_General Plot.canvas]]", _General Plot:: : [], dg-publish:: : true, --
+### Properties
+- **Character_ID: `VIEW[{Character_ID}][text(renderMarkdown)]`
+- **Narrative_data: `VIEW[{Narrative_data}][text(renderMarkdown)]`
+- **Mesh: `VIEW[{Mesh}][text(renderMarkdown)]`
+- **Dialogue_position: `VIEW[{Dialogue_position}][text(renderMarkdown)]`

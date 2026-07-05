@@ -1,24 +1,24 @@
 ---
-Response ID:
+Response_ID:
   - Response0013
-Narrative ID: "[[Narrative0008]]"
-Response text: Interact to Guest A to get condition dice
-Player action description: Observing Guest A
-Opponent action description: Ready to give you condition
-Skill check text: Whatever happens, after this you will get condition...
-Response prerequisite type: Quest ongoing
-Prerequisite quest ID: "[[Quest0011]]"
-Prerequisite item ID: none
-Skill check?: yes
-Skill type: observation
-Multiple skill check attempt?: no
-Item check?: none
-Item Id: none
-Succeed outcome: "[[Outcome0019]]"
-Failed outcome: "[[Outcome0019]]"
-Neutral outcome: "[[Outcome0019]]"
+Narrative_ID: "[[Narrative0008]]"
+Response_text: Interact to Guest A to get condition dice
+Player_action_description: Observing Guest A
+Opponent_action_description: Ready to give you condition
+Skill_check_text: Whatever happens, after this you will get condition...
+Response_prerequisite_type: Quest ongoing
+Prerequisite_quest_ID: "[[Quest0011]]"
+Prerequisite_item_ID: none
+Skill_check?: yes
+Skill_type: observation
+Multiple_skill_check_attempt?: no
+Item_check?: none
+Item_Id: none
+Succeed_outcome: "[[Outcome0019]]"
+Failed_outcome: "[[Outcome0019]]"
+Neutral_outcome: "[[Outcome0019]]"
 tags:
   - response
-Outcome ID prerequisite: none
+Outcome_ID_prerequisite: none
 dg-publish: true
 ---

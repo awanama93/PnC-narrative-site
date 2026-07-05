@@ -1,12 +1,12 @@
 ---
 tags:
   - hint
-Hint ID:
-Quest ID relation:
-Hint description:
+Hint_ID:
+Quest_ID_relation:
+Hint_description:
 Status:
-Hint prerequisite type:
-Item Id:
-Quest ID:
+Hint_prerequisite_type:
+Item_Id:
+Quest_ID:
 dg-publish: true
 ---

@@ -1,9 +1,9 @@
 ---
 tags:
   - narrativebeat
-Narrative ID:
-Narrative name:
-Narrative completion status:
+Narrative_ID:
+Narrative_name:
+Narrative_completion_status:
 Exposition:
 Responses:
 dg-publish: true

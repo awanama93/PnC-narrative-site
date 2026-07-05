@@ -1,29 +1,29 @@
 ---
-Outcome ID: Outcome0021
-Response ID:
+Outcome_ID: Outcome0021
+Response_ID:
   - "[[Response0015]]"
-Outcome name: See stat changes
-Outcome type: Any response
-Outcome response: See sanity or health changes on right top screen based on dice roll
-EXP gain: "3"
-Add item ID: none
-Condition target 1: none
-Condition dice 1 type modification: none
-Condition dice 1 ID: none
-Condition dice 1 influenced skill type: none
-Condition target 2: none
-Condition dice 2 type modification: none
-Condition dice 2 ID: none
-Condition dice 2 influenced skill type: none
-Condition target 3: none
-Condition dice 3 type modification: none
-Condition dice 3 ID: none
-Condition dice 3 influenced skill type: none
+Outcome_name: See stat changes
+Outcome_type: Any response
+Outcome_response: See sanity or health changes on right top screen based on dice roll
+EXP_gain: "3"
+Add_item_ID: none
+Condition_target_1: none
+Condition_dice_1_type_modification: none
+Condition_dice_1_ID: none
+Condition_dice_1_influenced_skill_type: none
+Condition_target_2: none
+Condition_dice_2_type_modification: none
+Condition_dice_2_ID: none
+Condition_dice_2_influenced_skill_type: none
+Condition_target_3: none
+Condition_dice 3_type_modification: none
+Condition_dice_3_ID: none
+Condition_dice_3_influenced_skill_type: none
 tags:
   - outcome
-Special dice face 1 addition: low integer
-Special dice face 2 addition: none
-Special dice face 3 addition: none
-Subtract item ID: none
+Special_dice_face_1_addition: low integer
+Special_dice_face_2_addition: none
+Special_dice_face_3_addition: none
+Subtract_item_ID: none
 dg-publish: true
 ---

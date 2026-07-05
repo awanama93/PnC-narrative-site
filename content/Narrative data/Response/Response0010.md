@@ -1,24 +1,24 @@
 ---
-Response ID: Response0010
-Narrative ID: "[[Narrative0007]]"
-Response text: Try to beat Guest D with your strength skill
-Player action description: Your strength skill
-Opponent action description: Ready to check your strength
-Skill check text: Can you beat Guest D with your strength?
-Response prerequisite type: Quest ongoing
-Prerequisite quest ID: "[[Quest0010]]"
-Prerequisite item ID: none
-Skill check?: yes
-Skill type: strength
-Multiple skill check attempt?: yes
-Item check?: none
-Item Id: none
-Succeed outcome: "[[Outcome0016]]"
-Failed outcome: "[[Outcome0017]]"
-Neutral outcome: "[[Outcome0018]]"
+Response_ID: Response0010
+Narrative_ID: "[[Narrative0007]]"
+Response_text: Try to beat Guest D with your strength skill
+Player_action_description: Your strength skill
+Opponent_action_description: Ready to check your strength
+Skill_check_text: Can you beat Guest D with your strength?
+Response_prerequisite_type: Quest ongoing
+Prerequisite_quest_ID: "[[Quest0010]]"
+Prerequisite_item_ID: none
+Skill_check?: yes
+Skill_type: strength
+Multiple_skill_check_attempt?: yes
+Item_check?: none
+Item_Id: none
+Succeed_outcome: "[[Outcome0016]]"
+Failed_outcome: "[[Outcome0017]]"
+Neutral_outcome: "[[Outcome0018]]"
 tags:
   - response
-Outcome ID prerequisite: none
+Outcome_ID_prerequisite: none
 dg-publish: true
 ---
 

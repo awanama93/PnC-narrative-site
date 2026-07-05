@@ -1,8 +1,8 @@
 ---
 tags:
   - item
-Item Id:
-Item name:
-Item description:
+Item_Id:
+Item_name:
+Item_description:
 dg-publish: true
 ---

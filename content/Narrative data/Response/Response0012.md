@@ -1,23 +1,23 @@
 ---
-Response ID: Response0012
-Narrative ID: "[[Narrative0007]]"
-Response text: Try to beat Guest D with your deception skill
-Player action description: Your deception skill
-Opponent action description: Ready to check your deception
-Skill check text: Can you beat Guest D with your deception?
-Response prerequisite type: Quest ongoing
-Prerequisite quest ID: "[[Quest0010]]"
-Prerequisite item ID: none
-Skill check?: yes
-Skill type: deception
-Multiple skill check attempt?: yes
-Item check?: none
-Item Id: none
-Succeed outcome: "[[Outcome0016]]"
-Failed outcome: "[[Outcome0017]]"
-Neutral outcome: "[[Outcome0018]]"
+Response_ID: Response0012
+Narrative_ID: "[[Narrative0007]]"
+Response_text: Try to beat Guest D with your deception skill
+Player_action_description: Your deception skill
+Opponent_action_description: Ready to check your deception
+Skill_check_text: Can you beat Guest D with your deception?
+Response_prerequisite_type: Quest ongoing
+Prerequisite_quest_ID: "[[Quest0010]]"
+Prerequisite_item_ID: none
+Skill_check?: yes
+Skill_type: deception
+Multiple_skill_check_attempt?: yes
+Item_check?: none
+Item_Id: none
+Succeed_outcome: "[[Outcome0016]]"
+Failed_outcome: "[[Outcome0017]]"
+Neutral_outcome: "[[Outcome0018]]"
 tags:
   - response
-Outcome ID prerequisite: none
+Outcome_ID_prerequisite: none
 dg-publish: true
 ---

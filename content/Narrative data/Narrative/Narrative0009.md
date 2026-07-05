@@ -1,8 +1,8 @@
 ---
-Narrative ID: Narrative0009
-Narrative name: "[[GuestB]]"
+Narrative_ID: Narrative0009
+Narrative_name: "[[GuestB]]"
 Exposition: Guest B is preparing to take away your condition
-Narrative completion status:
+Narrative_completion_status:
 Responses:
   - "[[Response0014]]"
 tags:

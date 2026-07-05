@@ -1,7 +1,7 @@
 ---
 tags:
   - locationchanger
-Quest ID trigger:
+Quest_ID_trigger:
 CharacterData1:
   CharacterID: ""
   Area: ""
