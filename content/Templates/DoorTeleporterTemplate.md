@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-05T16:25:21.605+07:00
+modified: 2026-07-05T18:47:59.454+07:00
+published: 2026-07-05T18:47:59.454+07:00
 tags:
   - doorteleporter
 DoorTeleporterData1:

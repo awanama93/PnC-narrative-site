@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-02T23:05:56.303+07:00
+modified: 2026-07-05T20:50:27.515+07:00
+published: 2026-07-05T20:50:27.515+07:00
 tags:
   - character
 Dialogue_position: Left
@@ -13,8 +17,10 @@ canvas:
 _General Plot: []
 dg-publish: true
 ---
+
 ### Properties
-- **Character_ID: `VIEW[{Character_ID}][text(renderMarkdown)]`
-- **Narrative_data: `VIEW[{Narrative_data}][text(renderMarkdown)]`
-- **Mesh: `VIEW[{Mesh}][text(renderMarkdown)]`
-- **Dialogue_position: `VIEW[{Dialogue_position}][text(renderMarkdown)]`
+
+- \*\*Character\_ID: `VIEW[{Character_ID}][text(renderMarkdown)]`
+- \*\*Narrative\_data: `VIEW[{Narrative_data}][text(renderMarkdown)]`
+- \*\*Mesh: `VIEW[{Mesh}][text(renderMarkdown)]`
+- \*\*Dialogue\_position: `VIEW[{Dialogue_position}][text(renderMarkdown)]`

@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-03T17:34:31.928+07:00
+modified: 2026-07-05T20:30:36.818+07:00
+published: 2026-07-05T20:30:36.818+07:00
+tags:
+  - outcome
 Outcome_ID: Outcome0017
 Response_ID:
   - "[[Response0010]]"
@@ -13,8 +19,6 @@ Condition_dice_1_type_modification: none
 Condition_dice_1_ID: none
 Condition_dice_2_type_modification: none
 Condition_dice_2_ID: none
-tags:
-  - outcome
 Condition_target_1: none
 Condition_target_2: none
 Condition_target_3: none

@@ -1,5 +1,5 @@
 ---
 dg-publish: true
 ---
-![[LocationChangerDatabase.base]]
 
+![[LocationChangerDatabase.base]]

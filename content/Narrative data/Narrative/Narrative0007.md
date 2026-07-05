@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-03T17:07:05.540+07:00
+modified: 2026-07-05T20:26:00.425+07:00
+published: 2026-07-05T20:26:00.425+07:00
+tags:
+  - narrativebeat
 Narrative_ID: Narrative0007
 Narrative_name: "[[GuestD]]"
 Exposition: Guest D is ready to check you on various options
@@ -7,7 +13,5 @@ Responses:
   - "[[Response0010]]"
   - "[[Response0011]]"
   - "[[Response0012]]"
-tags:
-  - narrativebeat
 dg-publish: true
 ---

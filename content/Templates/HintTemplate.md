@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-01T22:31:41.677+07:00
+modified: 2026-07-05T20:25:52.549+07:00
+published: 2026-07-05T20:25:52.549+07:00
 tags:
   - hint
 Hint_ID:

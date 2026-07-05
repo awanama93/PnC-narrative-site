@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 You love the culture
 You finally go to the convention for the first time
 And then the incident happened

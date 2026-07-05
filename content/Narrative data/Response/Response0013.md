@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-03T18:13:00.639+07:00
+modified: 2026-07-05T20:27:10.826+07:00
+published: 2026-07-05T20:27:10.826+07:00
+tags:
+  - response
 Response_ID:
   - Response0013
 Narrative_ID: "[[Narrative0008]]"
@@ -17,8 +23,6 @@ Item_Id: none
 Succeed_outcome: "[[Outcome0019]]"
 Failed_outcome: "[[Outcome0019]]"
 Neutral_outcome: "[[Outcome0019]]"
-tags:
-  - response
 Outcome_ID_prerequisite: none
 dg-publish: true
 ---

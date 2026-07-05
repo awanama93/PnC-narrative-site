@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-03T16:38:37.272+07:00
+modified: 2026-07-05T20:30:36.749+07:00
+published: 2026-07-05T20:30:36.749+07:00
+tags:
+  - outcome
 Outcome_ID: Outcome0015
 Response_ID: "[[Response0009]]"
 Outcome_name: knowledge check neutral with Guest B
@@ -10,8 +16,6 @@ Condition_dice_1_type_modification: none
 Condition_dice_1_ID: none
 Condition_dice_2_type_modification: none
 Condition_dice_2_ID: none
-tags:
-  - outcome
 Condition_target_1: none
 Condition_target_2: none
 Condition_target_3: none

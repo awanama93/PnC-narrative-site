@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-03T17:01:19.153+07:00
+modified: 2026-07-05T20:27:10.783+07:00
+published: 2026-07-05T20:27:10.783+07:00
+tags:
+  - response
 Response_ID: Response0010
 Narrative_ID: "[[Narrative0007]]"
 Response_text: Try to beat Guest D with your strength skill
@@ -16,9 +22,6 @@ Item_Id: none
 Succeed_outcome: "[[Outcome0016]]"
 Failed_outcome: "[[Outcome0017]]"
 Neutral_outcome: "[[Outcome0018]]"
-tags:
-  - response
 Outcome_ID_prerequisite: none
 dg-publish: true
 ---
-

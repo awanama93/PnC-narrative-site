@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-04T19:42:07.938+07:00
+modified: 2026-07-05T20:30:36.917+07:00
+published: 2026-07-05T20:30:36.917+07:00
+tags:
+  - outcome
 Outcome_ID: Outcome0022
 Response_ID:
   - "[[Response0016]]"
@@ -22,8 +28,6 @@ Condition_dice_3_influenced_skill_type: none
 Special_dice_face_1_addition: none
 Special_dice_face_2_addition: none
 Special_dice_face_3_addition: none
-tags:
-  - outcome
 Subtract_item_ID: none
 dg-publish: true
 ---

@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-02T17:26:21.546+07:00
+modified: 2026-07-05T20:27:10.974+07:00
+published: 2026-07-05T20:27:10.974+07:00
 tags:
   - response
 Response_ID:

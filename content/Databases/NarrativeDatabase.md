@@ -1,5 +1,5 @@
 ---
 dg-publish: true
 ---
-![[NarrativeDatabase.base]]
 
+![[NarrativeDatabase.base]]
