@@ -27,9 +27,7 @@
 		{"id":"c7e418af6445b3bc","type":"file","file":"Databases/QuestDatabase.base","x":120,"y":1520,"width":400,"height":400},
 		{"id":"857cc6c67f6b4dcc","type":"file","file":"Narrative data/Quest/Quest0008.md","x":40,"y":2920,"width":400,"height":640},
 		{"id":"cb1102d63b8b7991","type":"file","file":"Narrative data/Quest/Quest0007.md","x":-570,"y":2920,"width":400,"height":620},
-		{"id":"f8210db008041307","type":"file","file":"Narrative data/Quest/Quest0010.md","x":1280,"y":2920,"width":400,"height":640},
 		{"id":"ea693f882c64b0e6","type":"file","file":"Narrative data/Quest/Quest0009.md","x":680,"y":2920,"width":400,"height":640},
-		{"id":"41b601d6a7b3664c","type":"file","file":"Narrative data/Quest/Quest0013.md","x":3240,"y":2900,"width":400,"height":700},
 		{
 			"id":"b6ed898b95714a3d",
 			"type":"text",
@@ -46,7 +44,9 @@
 		{"id":"16ea966b16d2478c","type":"file","file":"Character/GuestD.md","x":800,"y":4480,"width":400,"height":400},
 		{"id":"9a701e90bccf9cd1","type":"file","file":"Character/GuestA.md","x":-1140,"y":4520,"width":400,"height":360},
 		{"id":"6c8470e9213d22e8","type":"file","file":"Character/GuestB.md","x":-440,"y":4520,"width":400,"height":400},
-		{"id":"939f498eadf909ca","type":"file","file":"Narrative data/LocationChanger/LC0001.md","x":-480,"y":3800,"width":400,"height":400}
+		{"id":"939f498eadf909ca","type":"file","file":"Narrative data/LocationChanger/LC0001.md","x":-480,"y":3800,"width":400,"height":400},
+		{"id":"41b601d6a7b3664c","type":"file","file":"Narrative data/Quest/Quest0013.md","x":3240,"y":2880,"width":400,"height":700},
+		{"id":"f8210db008041307","type":"file","file":"Narrative data/Quest/Quest0010.md","x":1280,"y":2920,"width":400,"height":640}
 	],
 	"edges":[
 		{
