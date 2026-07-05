@@ -1,5 +1,5 @@
 ---
 dg-publish: true
 ---
-![[OutcomeDatabase.base]]
 
+![[OutcomeDatabase.base]]

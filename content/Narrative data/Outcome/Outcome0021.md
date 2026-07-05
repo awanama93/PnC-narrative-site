@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-04T17:14:07.409+07:00
+modified: 2026-07-05T20:30:36.883+07:00
+published: 2026-07-05T20:30:36.883+07:00
+tags:
+  - outcome
 Outcome_ID: Outcome0021
 Response_ID:
   - "[[Response0015]]"
@@ -19,8 +25,6 @@ Condition_target_3: none
 Condition_dice 3_type_modification: none
 Condition_dice_3_ID: none
 Condition_dice_3_influenced_skill_type: none
-tags:
-  - outcome
 Special_dice_face_1_addition: low integer
 Special_dice_face_2_addition: none
 Special_dice_face_3_addition: none

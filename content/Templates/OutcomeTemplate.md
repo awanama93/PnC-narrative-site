@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-02T17:32:38.154+07:00
+modified: 2026-07-05T20:30:37.011+07:00
+published: 2026-07-05T20:30:37.011+07:00
 tags:
   - outcome
 Outcome_ID:

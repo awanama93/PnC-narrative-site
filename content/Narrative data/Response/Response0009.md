@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-03T10:44:25.661+07:00
+modified: 2026-07-05T20:27:10.761+07:00
+published: 2026-07-05T20:27:10.761+07:00
+tags:
+  - response
 Response_ID: Response0009
 Narrative_ID: "[[Narrative0006]]"
 Player_action_description: Your knowledge skill
@@ -16,8 +22,6 @@ Item_Id: none
 Succeed_outcome: "[[Outcome0013]]"
 Failed_outcome: "[[Outcome0014]]"
 Neutral_outcome: "[[Outcome0015]]"
-tags:
-  - response
 Outcome_ID_prerequisite: none
 dg-publish: true
 ---

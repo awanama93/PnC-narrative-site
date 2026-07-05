@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-03T18:23:36.990+07:00
+modified: 2026-07-05T20:30:36.844+07:00
+published: 2026-07-05T20:30:36.844+07:00
+tags:
+  - outcome
 Outcome_ID: Outcome0019
 Response_ID:
   - "[[Response0013]]"
@@ -11,8 +17,6 @@ Condition_dice_1_type_modification: addition
 Condition_dice_1_ID: "[[BuffSampleDice]]"
 Condition_dice_2_type_modification: addition
 Condition_dice_2_ID: "[[NerfSampleDice]]"
-tags:
-  - outcome
 Condition_target_1: Player
 Condition_target_2: Player
 Condition_target_3: Opponent

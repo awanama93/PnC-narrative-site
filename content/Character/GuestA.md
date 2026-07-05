@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-02T18:56:39.582+07:00
+modified: 2026-07-05T20:50:23.250+07:00
+published: 2026-07-05T20:50:23.250+07:00
 tags:
   - character
 Character_ID: GuestA
@@ -13,8 +17,10 @@ canvas:
 _General Plot: []
 dg-publish: true
 ---
+
 ### Properties
-- **Character_ID: `VIEW[{Character_ID}][text(renderMarkdown)]`
-- **Narrative_data: `VIEW[{Narrative_data}][text(renderMarkdown)]`
-- **Mesh: `VIEW[{Mesh}][text(renderMarkdown)]`
-- **Dialogue_position: `VIEW[{Dialogue_position}][text(renderMarkdown)]`
+
+- \*\*Character\_ID: `VIEW[{Character_ID}][text(renderMarkdown)]`
+- \*\*Narrative\_data: `VIEW[{Narrative_data}][text(renderMarkdown)]`
+- \*\*Mesh: `VIEW[{Mesh}][text(renderMarkdown)]`
+- \*\*Dialogue\_position: `VIEW[{Dialogue_position}][text(renderMarkdown)]`

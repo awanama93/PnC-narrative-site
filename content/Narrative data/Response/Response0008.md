@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-02T22:42:57.153+07:00
+modified: 2026-07-05T20:27:10.747+07:00
+published: 2026-07-05T20:27:10.747+07:00
+tags:
+  - response
 Response_ID: Response0008
 Narrative_ID: "[[Narrative0005]]"
 Player_action_description: Your observation skill
@@ -16,8 +22,6 @@ Item_Id: none
 Succeed_outcome: "[[Outcome0010]]"
 Failed_outcome: "[[Outcome0011]]"
 Neutral_outcome: "[[Outcome0012]]"
-tags:
-  - response
 Outcome_ID_prerequisite: none
 dg-publish: true
 ---

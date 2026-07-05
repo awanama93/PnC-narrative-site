@@ -1,4 +1,10 @@
 ---
+publish: true
+created: 2026-07-02T22:51:27.918+07:00
+modified: 2026-07-05T20:30:36.644+07:00
+published: 2026-07-05T20:30:36.644+07:00
+tags:
+  - outcome
 Outcome_ID: Outcome0010
 Response_ID: "[[Response0008]]"
 Outcome_name: observation check succeed with Guest B
@@ -15,8 +21,6 @@ Condition_dice_2_ID: none
 Condition_target_3: none
 Condition_dice 3_type_modification: none
 Condition_dice_3_ID: none
-tags:
-  - outcome
 Condition_dice_1_influenced_skill_type: none
 Condition_dice_2_influenced_skill_type: none
 Condition_dice_3_influenced_skill_type: none

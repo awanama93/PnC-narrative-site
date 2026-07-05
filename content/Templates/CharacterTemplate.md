@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-06-20T18:28:32.032+07:00
+modified: 2026-07-05T20:50:34.159+07:00
+published: 2026-07-05T20:50:34.159+07:00
 tags:
   - character
 Dialogue_position:
@@ -7,8 +11,10 @@ Mesh:
 Narrative_data:
 dg-publish: true
 ---
+
 ### Properties
-- **Character_ID: `VIEW[{Character_ID}][text(renderMarkdown)]`
-- **Narrative_data: `VIEW[{Narrative_data}][text(renderMarkdown)]`
-- **Mesh: `VIEW[{Mesh}][text(renderMarkdown)]`
-- **Dialogue_position: `VIEW[{Dialogue_position}][text(renderMarkdown)]`
+
+- \*\*Character\_ID: `VIEW[{Character_ID}][text(renderMarkdown)]`
+- \*\*Narrative\_data: `VIEW[{Narrative_data}][text(renderMarkdown)]`
+- \*\*Mesh: `VIEW[{Mesh}][text(renderMarkdown)]`
+- \*\*Dialogue\_position: `VIEW[{Dialogue_position}][text(renderMarkdown)]`
