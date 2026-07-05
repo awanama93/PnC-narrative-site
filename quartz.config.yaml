@@ -254,6 +254,7 @@ layout:
       priority: 35
       direction: row
       gap: 0.5rem
+  #changes suggestion by gemini
   byPageType:
     "404":
       positions:
@@ -271,22 +272,10 @@ layout:
         - reader-mode
       positions:
         right: []
-    canvas: {}
-    bases: {}
-  # This configures default views
-  defaultContentPageLayout:
-    beforeBody:
-      - source: github:quartz-community/breadcrumbs
-      - source: github:quartz-community/article-title
-      - source: github:quartz-community/content-meta
-      - source: github:quartz-community/tag-list
-
-  # 🎯 FORCE PROPERTIES INSIDE CANVAS RENDERS
-  byPageType:
     canvas:
-      beforeBody:
-        - source: github:quartz-community/note-properties
-          options:
-            includeAll: true
-            hidePropertiesView: false
-        - source: github:quartz-community/article-title
+      positions:
+        beforeBody:
+          - source: github:quartz-community/breadcrumbs
+          - source: github:quartz-community/article-title
+          - source: github:quartz-community/note-properties
+    bases: {}
