@@ -3,12 +3,22 @@
 		{"id":"83445e88c47848f6","type":"file","file":"Asset/AreaHubInside.png","x":-240,"y":-80,"width":400,"height":225},
 		{"id":"8772689cdead7e17","type":"file","file":"Asset/AreaFoodCourt.png","x":260,"y":-80,"width":400,"height":227},
 		{"id":"da164b22cf269533","type":"file","file":"Asset/AreaConventionArea.png","x":-239,"y":-440,"width":399,"height":230},
-		{"id":"0fcdb12bf3529590","type":"file","file":"Asset/AreaToiletCorridor.png","x":260,"y":-440,"width":400,"height":241},
 		{"id":"009e10c505d8e297","type":"file","file":"Asset/AreaToiletFemale.png","x":260,"y":-797,"width":400,"height":223},
 		{"id":"c83d5cd59c793843","type":"file","file":"Asset/AreaToiletMale.png","x":760,"y":-432,"width":399,"height":226},
 		{"id":"7d86c1c36756abcd","type":"file","file":"Asset/AreaOrganizerRoom.png","x":-800,"y":-80,"width":400,"height":223},
 		{"id":"9d1ac0ed07f59236","type":"file","file":"Asset/AreaMainStage.png","x":-240,"y":-795,"width":400,"height":221},
-		{"id":"e04789a9be8ef11f","type":"file","file":"Asset/AreaHubOutside.png","x":-240,"y":300,"width":400,"height":223}
+		{"id":"e04789a9be8ef11f","type":"file","file":"Asset/AreaHubOutside.png","x":-240,"y":300,"width":400,"height":223},
+		{"id":"d48b5e98d5eba011","type":"file","file":"Asset/AreaToiletCorridorSample.png","x":260,"y":-432,"width":399,"height":264},
+		{
+			"id":"278249424f52c65c",
+			"type":"text",
+			"text":"dsad",
+			"styleAttributes":{},
+			"x":820,
+			"y":-20,
+			"width":250,
+			"height":60
+		}
 	],
 	"edges":[
 		{
@@ -48,7 +58,7 @@
 			"toFloating":false,
 			"fromNode":"da164b22cf269533",
 			"fromSide":"right",
-			"toNode":"0fcdb12bf3529590",
+			"toNode":"d48b5e98d5eba011",
 			"toSide":"left",
 			"fromEnd":"arrow"
 		},
@@ -59,7 +69,7 @@
 			"fromFloating":false,
 			"fromNode":"8772689cdead7e17",
 			"fromSide":"top",
-			"toNode":"0fcdb12bf3529590",
+			"toNode":"d48b5e98d5eba011",
 			"toSide":"bottom",
 			"fromEnd":"arrow"
 		},
@@ -67,7 +77,8 @@
 			"id":"8c059405bbc3d8ce",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"0fcdb12bf3529590",
+			"fromFloating":false,
+			"fromNode":"d48b5e98d5eba011",
 			"fromSide":"top",
 			"toNode":"009e10c505d8e297",
 			"toSide":"bottom",
@@ -78,7 +89,7 @@
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"0fcdb12bf3529590",
+			"fromNode":"d48b5e98d5eba011",
 			"fromSide":"right",
 			"toNode":"c83d5cd59c793843",
 			"toSide":"left",
@@ -109,18 +120,18 @@
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"7d86c1c36756abcd",
-			"fromSide":"bottom",
+			"fromSide":"right",
 			"toNode":"e04789a9be8ef11f",
-			"toSide":"left"
+			"toSide":"top"
 		},
 		{
 			"id":"fe2477cc65625bb6",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"da164b22cf269533",
-			"fromSide":"left",
+			"fromSide":"bottom",
 			"toNode":"e04789a9be8ef11f",
-			"toSide":"left"
+			"toSide":"top"
 		}
 	],
 	"metadata":{

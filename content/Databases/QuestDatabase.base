@@ -24,7 +24,7 @@ views:
       - tags
     sort: []
     columnSize:
-      note.Quest name: 182
+      note.Quest name: 262
       note.Quest description: 311
       note.Hints: 242
       note.Completion response ID: 340

@@ -19,5 +19,5 @@ views:
       - property: Quest ID
         direction: ASC
     columnSize:
-      note.Hint description: 434
+      note.Hint description: 552
       note.Item Id: 110

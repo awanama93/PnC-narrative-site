@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Point and Click Narrative Data (GDPP2)
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -273,3 +273,20 @@ layout:
         right: []
     canvas: {}
     bases: {}
+  # This configures default views
+  defaultContentPageLayout:
+    beforeBody:
+      - source: github:quartz-community/breadcrumbs
+      - source: github:quartz-community/article-title
+      - source: github:quartz-community/content-meta
+      - source: github:quartz-community/tag-list
+
+  # 🎯 FORCE PROPERTIES INSIDE CANVAS RENDERS
+  byPageType:
+    canvas:
+      beforeBody:
+        - source: github:quartz-community/note-properties
+          options:
+            includeAll: true
+            hidePropertiesView: false
+        - source: github:quartz-community/article-title

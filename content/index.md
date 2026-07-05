@@ -2,11 +2,6 @@
 dg-publish: true
 dg-home: true
 ---
-
-### Properties, --
-- dg-publish:: : true
-- dg-home:: : true, --
-
 Ini adalah front page untuk dokumentasi narrative, quest, dan content lainnya untuk project Point & Click Game Development Profesional Program Batch 2
 
 Pada dokumen ini terdapat beragam informasi detil.
